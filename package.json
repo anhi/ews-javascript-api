@@ -34,7 +34,7 @@
   },
   "optionalDependencies": {
     "bluebird": "^3.7.2",
-    "fetch": "^1.1.0"
+    "fetch": "git@github.com:anhi/andris9_fetch.git"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
